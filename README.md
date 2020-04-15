@@ -1,2 +1,2 @@
-# Network-anomaly-using-deep-learning
+# Network-anomaly-detection-using-deep-learning
 Just another repository

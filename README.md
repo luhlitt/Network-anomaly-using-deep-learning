@@ -3,4 +3,4 @@ The idea of this project is to use deep learning models for malware detection. T
 
 Access to the dataset can be found here. https://www.unb.ca/cic/datasets/ids-2017.html
 
-All files were combined into one file for use in this experiment.
+For this experiment all files were combined into one csv file.
